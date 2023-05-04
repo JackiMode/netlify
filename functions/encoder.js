@@ -1,4 +1,4 @@
-const { encode } = require('@nem035/gpt-3-encoder')
+const { encode } = require('gpt-3-encoder')
 
 exports.handler = async (event, context) => {
 
