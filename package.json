@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/JackiMode/netlify#readme",
   "dependencies": {
+    "gpt-3-encoder": "^1.1.4",
     "unfluff": "^3.2.0"
   }
 }
