@@ -1,0 +1,22 @@
+{
+  "name": "netlify",
+  "version": "1.0.0",
+  "description": "netlify functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackiMode/netlify.git"
+  },
+  "author": "Jacki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackiMode/netlify/issues"
+  },
+  "homepage": "https://github.com/JackiMode/netlify#readme",
+  "dependencies": {
+    "unfluff": "^3.2.0"
+  }
+}
